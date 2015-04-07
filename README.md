@@ -5,6 +5,11 @@ A time based / event series interactive visualization using d3.js. Use drag and 
 
 ![EventDrops example](http://static.marmelab.com/EventDrops.gif)
 
+## blx/EventDrops fork
+
+This fork is adapted for use with only one data series.
+I took the label from the left (eg. "Reverse Proxy hits (53)") and stuck it up top between the delimiters.
+
 ## Installation
 
 You can use npm to install event-drops
